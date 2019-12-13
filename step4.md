@@ -8,3 +8,5 @@ Some general hints about this:
 * If you have required slots in an intent, you can't also have utterances without that slot, without it triggering that question.
 * If you want to have multiple handlers for the same intent, you will need to ensure that the `can_handle` functions in those handlers are different enough to differentiate between them. And remember that the order matters!
 * Don't overcomplicate things, separate the intents and code into parts you can easily deal with.
+
+[Next Step](step4.md)

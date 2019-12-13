@@ -42,3 +42,5 @@ At this stage you can either talk to the simulator or type your requests. In a g
 ![](img/DraggedImage-7.png)
 
 Congratulations! You've got your first working skill.
+
+[Next Step](step2.md)

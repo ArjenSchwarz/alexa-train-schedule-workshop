@@ -62,3 +62,5 @@ Excellent! We now know what size it is, but we're not dealing yet with the slots
 ![](img/DraggedImage-19.png)
 
 And it works! Sort of... As you can see, this now breaks the functionality for the question where we didn't include the slot. You can solve this in different ways, either through your code or your model. The last part of this step is to actually fix it.
+
+[Next Step](step3.md)
