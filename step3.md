@@ -32,7 +32,7 @@ class TrainSizeIntentHandler(AbstractRequestHandler):
         response = requests.get("https://sf0lpvreqc.execute-api.ap-southeast-2.amazonaws.com/Prod/schedule/")
         result = response.json()
         # type: (HandlerInput) -> Response
-        speak_output = "The train is " + result['size'] + " sized".
+        speak_output = "The train is " + result['size'] + " sized."
 
         return (
             handler_input.response_builder
